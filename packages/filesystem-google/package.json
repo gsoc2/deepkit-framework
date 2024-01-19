@@ -27,7 +27,7 @@
     "@deepkit/filesystem": "^1.0.1-alpha.108",
     "@google-cloud/storage": "^7.2.0",
     "bignumber.js": "^9.1.2",
-    "google-auth-library": "^9.1.0"
+    "google-auth-library": "^9.4.1"
   },
   "devDependencies": {
     "@types/node": "20.6.0"
